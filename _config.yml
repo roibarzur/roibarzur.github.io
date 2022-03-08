@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Roi Bar-Zur
-email: roi.bar-zur _ at _ campus.technion.ac.il
+email: roi.bar-zur@campus.technion.ac.il
 description: >- # this means to ignore newlines until "baseurl:"
   PhD candidate, ECE faculty, Technion, Israel.
 twitter_username: roibarzur
@@ -56,7 +56,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : ""
+  name   : "Roi"
   avatar : "/assets/images/profile-pic.jpeg"
   bio    : "I'm a PhD at the electric engineering faculty, Technion, Israel. My research interests include blockchain security and machine learning. My goal is to analyze the incentives of miners n blockchain security analysis through deep reinforcement learning."
   links:
