@@ -1,6 +1,6 @@
 ---
-permalink: /publications/
-title: "Publications"
+permalink: /
+title: "Home"
 ---
 
 I'm a PhD candidate at the [Technion](https://www.technion.ac.il/en/home-2/), in the [Electrical Engineering Faculty](https://ece.technion.ac.il/) under the supervision of [Prof. Ittay Eyal](https://webee.technion.ac.il/people/ittay/) and [Prof. Aviv Tamar](https://avivt.github.io/avivt/).
