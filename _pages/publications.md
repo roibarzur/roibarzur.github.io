@@ -3,13 +3,12 @@ permalink: /publications/
 title: "Publications"
 ---
 
-I'm a PhD candidate at the [Technion](https://www.technion.ac.il/en/home-2/), in the [Electrical Engineering Faculty](https://ece.technion.ac.il/) under the supervision of [Prof. Ittay Eyal](https://webee.technion.ac.il/people/ittay/) and [Prof. Aviv Tamar](https://avivt.github.io/avivt/).
-I'm a member of the [Technion Hiroshi Fujiwara Cyber Security Research Center](https://cyber.technion.ac.il/) and the [Initiative for Cryptocurrencies & Contracts](https://www.initc3.org/).
+Publications in [Google Scholar](https://scholar.google.com/citations?user=9AshC4gAAAAJ) and [DBLP](https://dblp.org/pid/270/0147.html).
 
-My research interests include blockchain protocols and reinforcement learning.
-The goal of my research is to ensure the security of blockchain protocols.
-I mainly analyze incentive compatibilty, i.e., trying to understand whether miners are incentivized to behave as intended.
-This is a crucial security aspect of blockchains due to their anonymous and distributed nature.
-To perform my analyses, I utilize state-of-the-art deep reinforcement learning to find optimal mining strategies.
-
-I received my BSc (Cum Laude) in applied mathematics from [Bar Ilan University](https://www.biu.ac.il/en) and my MSc (Cum Laude) in computer science from the Technion.
+- **WeRLman: To Tackle Whale (Transactions), Go Deep (RL)** Using deep RL to analyze a model of Nakamoto based blockchains with varying block rewards.
+  With Ameer Abu-Hanna, Ittay Eyal and Aviv Tamar.
+  [Paper](https://eprint.iacr.org/2022/175)
+- **Efficient MDP Analysis for Selfish-Mining in Blockchains** A novel method to efficiently find the optimal strategy of a selfish miner. We use this method to analyze Ethereum.
+  With Ittay Eyal and Aviv Tamar.
+  *ACM AFT '20*
+  [Paper](https://dl.acm.org/doi/abs/10.1145/3419614.3423264) [Video](https://www.youtube.com/watch?v=P8ESkfCHXZ4)
