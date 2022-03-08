@@ -16,7 +16,8 @@
 title: Roi Bar-Zur
 email: roi.bar-zur@campus.technion.ac.il
 description: >- # this means to ignore newlines until "baseurl:"
-  PhD candidate, ECE faculty, Technion, Israel.
+  I'm PhD candidate, in the electric engineering faculty, Technion, Israel.
+  I research blockchain security using deep reinforcement learning.
 twitter_username: roibarzur
 github_username: roibarzur
 minimal_mistakes_skin: air
@@ -56,30 +57,30 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Roi"
+  name   : "Roi Bar-Zur"
   avatar : "/assets/images/profile-pic.jpeg"
-  bio    : "I'm a PhD at the electric engineering faculty, Technion, Israel. My research interests include blockchain security and machine learning. My goal is to analyze the incentives of miners n blockchain security analysis through deep reinforcement learning."
+  bio    : "PhD candidate, ECE faculty, Technion, Israel."
   links:
-    - label: "roi.bar-zur at campus.technion.ac.il"
-      icon: "fab fa-fw fa-envelope"
-      url: ""
+    - label: "roi.bar-zur@campus.technion.ac.il"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:roi.bar-zur@campus.technion.ac.il"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/roibarzur"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-in"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/roi-bar-zur-7a3743163/"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-fw fa-github-square"
       url: "https://github.com/roibarzur"
       
 footer:
   links:
-    - label: "roi.bar-zur at campus.technion.ac.il"
-      icon: "fab fa-fw fa-envelope"
-      url: ""
+    - label: "roi.bar-zur@campus.technion.ac.il"
+      icon: "fab fa-fw fa-at"
+      url: "mailto:roi.bar-zur@campus.technion.ac.il"
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fab fa-fw fa-twitter"
       url: "https://twitter.com/roibarzur"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
