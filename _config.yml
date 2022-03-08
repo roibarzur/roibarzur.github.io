@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Roi Bar-Zur
+masthead_title: ~
 email: roi.bar-zur@campus.technion.ac.il
 description: >- # this means to ignore newlines until "baseurl:"
   I'm PhD candidate, in the electric engineering faculty, Technion, Israel.
@@ -76,17 +77,17 @@ author:
       
 footer:
   links:
-    - label: "roi.bar-zur@campus.technion.ac.il"
+    - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:roi.bar-zur@campus.technion.ac.il"
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter"
+      icon: "fab fa-fw fa-twitter text-black"
       url: "https://twitter.com/roibarzur"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-in"
+      icon: "fab fa-fw fa-linkedin-in text-black"
       url: "https://www.linkedin.com/in/roi-bar-zur-7a3743163/"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-fw fa-github text-black"
       url: "https://github.com/roibarzur"
 
 defaults:
