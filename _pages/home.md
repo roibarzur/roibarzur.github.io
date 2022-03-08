@@ -1,3 +1,8 @@
+---
+permalink: /publications/
+title: "Publications"
+---
+
 I'm a PhD candidate at the [Technion](https://www.technion.ac.il/en/home-2/), in the [Electrical Engineering Faculty](https://ece.technion.ac.il/) under the supervision of [Prof. Ittay Eyal](https://webee.technion.ac.il/people/ittay/) and [Prof. Aviv Tamar](https://avivt.github.io/avivt/).
 I'm a member of the [Technion Hiroshi Fujiwara Cyber Security Research Center](https://cyber.technion.ac.il/) and the [Initiative for Cryptocurrencies & Contracts](https://www.initc3.org/).
 
