@@ -11,7 +11,7 @@ Publications in [Google Scholar](https://scholar.google.com/citations?user=9AshC
   
   [Paper](https://eprint.iacr.org/2022/175){: .btn .btn--primary}
 - **Efficient MDP Analysis for Selfish-Mining in Blockchains** A novel method to efficiently find the optimal strategy of a selfish miner. We use this method to analyze Ethereum.
-- 
+
   With Ittay Eyal and Aviv Tamar.
   
   *ACM AFT '20*
