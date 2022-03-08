@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Roi Bar-Zur
-masthead_title: ~
+masthead_title: "Test"
 email: roi.bar-zur@campus.technion.ac.il
 description: >- # this means to ignore newlines until "baseurl:"
   I'm PhD candidate, in the electric engineering faculty, Technion, Israel.
