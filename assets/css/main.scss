@@ -29,4 +29,10 @@ html {
   @include breakpoint($x-large) {
     font-size: 24px;
   }
+  
+  .author__avatar {
+    img {
+      max-width: 220px;
+    }
+  }
 }
