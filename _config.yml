@@ -62,7 +62,7 @@ author:
   avatar : "/assets/images/profile-pic.jpeg"
   bio    : "PhD candidate, ECE faculty, Technion, Israel."
   links:
-    - label: "roi.bar-zur@campus.technion.ac.il"
+    - label: "Email"
       icon: "fas fa-fw fa-at"
       url: "mailto:roi.bar-zur@campus.technion.ac.il"
     - label: "Twitter"
