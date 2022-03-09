@@ -31,6 +31,15 @@ html {
   }
   
   .author__avatar {
+    width: 72px;
+    height: 72px;
+
+    @include breakpoint($large) {
+      display: block;
+      width: auto;
+      height: auto;
+    }
+    
     img {
       max-width: 220px;
     }
