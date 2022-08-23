@@ -7,7 +7,7 @@ Publications in [Google Scholar](https://scholar.google.com/citations?user=9AshC
 
 - **WeRLman: To Tackle Whale (Transactions), Go Deep (RL)**<br>
   <font color="gray">With Ameer Abu-Hanna, Ittay Eyal and Aviv Tamar.</font>  
-  *IEE S&P '23*
+  *IEE S&P '23*  
   Using deep RL to analyze a model of Nakamoto based blockchains with varying block rewards.
   
   [Blog](https://medium.com/@rbrz39/werlman-to-tackle-whale-transactions-go-deep-rl-7f5de2de39d1){: .btn .btn--primary .btn--small} &nbsp; &nbsp;
