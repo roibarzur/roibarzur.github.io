@@ -5,10 +5,17 @@ title: "Publications"
 
 Publications in [Google Scholar](https://scholar.google.com/citations?user=9AshC4gAAAAJ) and [DBLP](https://dblp.org/pid/270/0147.html).
 
+- **Deep Bribe: Predicting the Rise of Bribery in Blockchain Mining with Deep RL**<br>
+  <font color="gray">With Danielle Dori, Sharon Vardi, Ittay Eyal and Aviv Tamar.</font>  
+  *Deep Learning S&P Workshop '23 (co-located with IEEE S&P)*  
+  Using deep RL to show that Nakamoto based blockchains become more vulnerable to selfish mining when petty compliant miners are present. 
+  
+  [Paper](https://eprint.iacr.org/2022/175){: .btn .btn--primary .btn--small} &nbsp; &nbsp;
+  [Code](https://github.com/roibarzur/pto-selfish-mining){: .btn .btn--primary .btn--small}
 - **WeRLman: To Tackle Whale (Transactions), Go Deep (RL)**<br>
   <font color="gray">With Ameer Abu-Hanna, Ittay Eyal and Aviv Tamar.</font>  
   *IEEE S&P '23*  
-  Using deep RL to analyze a model of Nakamoto based blockchains with varying block rewards.
+  Analyzing a model of Nakamoto based blockchains with varying block rewards using deep RL.
   
   [Blog](https://medium.com/@rbrz39/werlman-to-tackle-whale-transactions-go-deep-rl-7f5de2de39d1){: .btn .btn--primary .btn--small} &nbsp; &nbsp;
   [Paper](https://eprint.iacr.org/2022/175){: .btn .btn--primary .btn--small} &nbsp; &nbsp;
