@@ -10,7 +10,7 @@ Publications in [Google Scholar](https://scholar.google.com/citations?user=9AshC
   *Deep Learning S&P Workshop '23 (co-located with IEEE S&P)*  
   Using deep RL to show that Nakamoto based blockchains become more vulnerable to selfish mining when petty compliant miners are present. 
   
-  [Paper](https://eprint.iacr.org/2022/175){: .btn .btn--primary .btn--small} &nbsp; &nbsp;
+  [Paper](https://eprint.iacr.org/2023/472){: .btn .btn--primary .btn--small} &nbsp; &nbsp;
   [Code](https://github.com/roibarzur/pto-selfish-mining){: .btn .btn--primary .btn--small}
 - **WeRLman: To Tackle Whale (Transactions), Go Deep (RL)**<br>
   <font color="gray">With Ameer Abu-Hanna, Ittay Eyal and Aviv Tamar.</font>  
