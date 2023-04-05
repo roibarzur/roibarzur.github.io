@@ -4,13 +4,14 @@
 
 @charset "utf-8";
 
+$max-width: 2560px;
+
 $right-sidebar-width-narrow: 175px;
 $right-sidebar-width: 250px;
 $right-sidebar-width-wide: 325px;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
-$max-width: 2560px;
 
 html {
   font-size: 15px;
