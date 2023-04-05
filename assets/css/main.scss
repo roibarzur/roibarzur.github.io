@@ -7,11 +7,11 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-$right-sidebar-width-narrow: 175px !default;
-$right-sidebar-width: 250px !default;
-$right-sidebar-width-wide: 325px !default;
-
 html {
+  $right-sidebar-width-narrow: 175px !default;
+  $right-sidebar-width: 250px !default;
+  $right-sidebar-width-wide: 325px !default;
+  
   font-size: 15px;
 
   @include breakpoint($small) {
