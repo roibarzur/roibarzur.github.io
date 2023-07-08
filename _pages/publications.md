@@ -18,6 +18,7 @@ Publications in [Google Scholar](https://scholar.google.com/citations?user=9AshC
   Analyzing a model of Nakamoto based blockchains with varying block rewards using deep RL.
   
   [Blog](https://medium.com/@rbrz39/werlman-to-tackle-whale-transactions-go-deep-rl-7f5de2de39d1){: .btn .btn--primary .btn--small} &nbsp; &nbsp;
+  [Video](https://www.youtube.com/watch?v=M_qJFemp8CA){: .btn .btn--primary .btn--small} &nbsp; &nbsp;
   [Paper](https://eprint.iacr.org/2022/175){: .btn .btn--primary .btn--small} &nbsp; &nbsp;
   [Code](https://github.com/roibarzur/pto-selfish-mining){: .btn .btn--primary .btn--small} &nbsp; &nbsp;
   [Poster](/assets/pdfs/werlman-systor-poster-2022.pdf){: .btn .btn--primary .btn--small}
