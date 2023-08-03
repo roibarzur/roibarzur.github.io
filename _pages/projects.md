@@ -1,0 +1,14 @@
+---
+permalink: /projects/
+title: "Projects"
+---
+
+- **Privacy-Preserving On-Chain Voting with DECO**\
+  *2nd Place IC3 Blockchain camp 2023*\
+  Privacy preserving, ZKP-based voting smart contract using the oracle protocol DECO.\
+  [Code](https://github.com/topliceanu/IC3-dec-id){: .btn .btn--primary .btn--small .btn--top}
+- **Crypto Wallet Fortress**\
+  *1st Place IC3 Blockchain camp 2022*\
+  Calculate and deploy the optimally secure multi-key crypto wallet.\
+  [Code](https://github.com/Crypto-Wallet-Designer/){: .btn .btn--primary .btn--small .btn--top .btn--spacing}
+  [Website](https://crypto-wallet-designer.github.io/){: .btn .btn--primary .btn--small .btn--top}
