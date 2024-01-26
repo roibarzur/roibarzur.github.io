@@ -11,7 +11,7 @@ Publications in [Google Scholar](https://scholar.google.com/citations?user=9AshC
   A smart contract secured by a game theoretic analysis, enabling the reservation of future gas for timely transaction confirmation on the blockchain.\
   [Paper](https://eprint.iacr.org/2022/056){: .btn .btn--primary .btn--small .btn--top .btn--spacing}
 - **Deep Bribe: Predicting the Rise of Bribery in Blockchain Mining with Deep RL**\
-  <span style="color:gray">**Roi Bar-Zur***, Danielle Dori*, Sharon Vardi*, Ittay Eyal and Aviv Tamar.</span> (*Equal contribution)\
+  <span style="color:gray">**Roi Bar-Zur**\*, Danielle Dori*, Sharon Vardi*, Ittay Eyal and Aviv Tamar.</span> (\*Equal contribution)\
   *Deep Learning S&P Workshop '23 (co-located with IEEE S&P)*\
   Using deep RL to show that Nakamoto based blockchains become more vulnerable to selfish mining when petty compliant miners are present.\
   [Paper](https://eprint.iacr.org/2023/472){: .btn .btn--primary .btn--small .btn--top .btn--spacing}
