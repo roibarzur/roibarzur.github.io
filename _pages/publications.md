@@ -5,7 +5,7 @@ title: "Publications"
 
 Publications in [Google Scholar](https://scholar.google.com/citations?user=9AshC4gAAAAJ) and [DBLP](https://dblp.org/pid/270/0147.html).
 
-- **LedgerHedgher: Gas Reservation for Smart-Contract Security**\
+- **LedgerHedger: Gas Reservation for Smart-Contract Security**\
   <span style="color:gray">With Itay Tsabary, Alex Manuskin and Ittay Eyal.</span>\
   *Financial Cryptography and Data Security 2024*\
   A smart contract secured by a game theoretic analysis, enabling the reservation of future gas for timely transaction confirmation on the blockchain.\
