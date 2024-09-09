@@ -5,6 +5,12 @@ title: "Publications"
 
 Publications in [Google Scholar](https://scholar.google.com/citations?user=9AshC4gAAAAJ) and [DBLP](https://dblp.org/pid/270/0147.html).
 
+- **Aegis: A Decentralized Expansion Blockchain**\
+  <span style="color:gray">Yogev Bar-On, **Roi Bar-Zur**, Omer Ben-Porat, Nimrod Cohen, Ittay Eyal, Matan Sitbon</span>\
+  *Workshop on Scalability & Interoperability of Blockchains at AFT 2024*\
+  Enabling the secure creation of blockchains where validators’ stakes are derived from another chain.\
+  [Paper](https://eprint.iacr.org/2022/056){: .btn .btn--primary .btn--small .btn--top .btn--spacing}
+
 - **LedgerHedger: Gas Reservation for Smart-Contract Security**\
   <span style="color:gray">Itay Tsabary, Alex Manuskin, **Roi Bar-Zur** and Ittay Eyal</span>\
   *Financial Cryptography and Data Security 2024*\
