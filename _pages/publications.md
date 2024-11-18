@@ -8,7 +8,7 @@ Publications in [Google Scholar](https://scholar.google.com/citations?user=9AshC
 - **Aegis: A Decentralized Expansion Blockchain**\
   <span style="color:gray">Yogev Bar-On, **Roi Bar-Zur**, Omer Ben-Porat, Nimrod Cohen, Ittay Eyal, Matan Sitbon</span>\
   *Workshop on Scalability & Interoperability of Blockchains at AFT 2024*\
-  Enabling the secure creation of blockchains where validators’ stakes are derived from another chain.\
+  Enabling the secure creation of blockchains where validators’ stake is derived from another chain.\
   [Paper](https://arxiv.org/abs/2406.05904){: .btn .btn--primary .btn--small .btn--top .btn--spacing}
 
 - **LedgerHedger: Gas Reservation for Smart-Contract Security**\
@@ -25,7 +25,8 @@ Publications in [Google Scholar](https://scholar.google.com/citations?user=9AshC
 - **WeRLman: To Tackle Whale (Transactions), Go Deep (RL)**\
   <span style="color:gray">**Roi Bar-Zur**, Ameer Abu-Hanna, Ittay Eyal and Aviv Tamar</span>\
   *IEEE S&P '23*\
-  Analyzing a model of Nakamoto based blockchains with varying block rewards using deep RL.\
+  Analyzing the security of Nakamoto Blockchains in the presence of transaction fees
+using deep reinforcement learning.\
   [Paper](https://eprint.iacr.org/2022/175){: .btn .btn--primary .btn--small .btn--top .btn--spacing}
   [Code](https://github.com/roibarzur/pto-selfish-mining){: .btn .btn--primary .btn--small .btn--top .btn--spacing}
   [Video](https://www.youtube.com/watch?v=M_qJFemp8CA){: .btn .btn--primary .btn--small .btn--top .btn--spacing}
@@ -34,7 +35,7 @@ Publications in [Google Scholar](https://scholar.google.com/citations?user=9AshC
 - **Efficient MDP Analysis for Selfish-Mining in Blockchains**\
   <span style="color:gray">**Roi Bar-Zur**, Ittay Eyal and Aviv Tamar</span>\
   *ACM AFT '20*\
-  A novel method to efficiently find the optimal strategy of a selfish miner. We use this method to analyze Ethereum.\
+  Analyzing selfish mining in Bitcoin and Ethereum 10x faster than state-of-the-art.\
   [Paper](https://dl.acm.org/doi/abs/10.1145/3419614.3423264){: .btn .btn--primary .btn--small .btn--top .btn--spacing}
   [Code](https://github.com/roibarzur/pto-selfish-mining){: .btn .btn--primary .btn--small .btn--top .btn--spacing}
   [Video](https://www.youtube.com/watch?v=P8ESkfCHXZ4){: .btn .btn--primary .btn--small .btn--top}
