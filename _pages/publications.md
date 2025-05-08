@@ -41,9 +41,8 @@ using deep reinforcement learning.\
   [Video](https://www.youtube.com/watch?v=P8ESkfCHXZ4){: .btn .btn--primary .btn--small .btn--top}
 
 ## Preprints
----
 
-- Elastic Restaking Networks\
+- **Elastic Restaking Networks**\
   <span style="color:gray">**Roi Bar-Zur** and Ittay Eyal</span>\
   Demonstrating how partial stake allocations strengthen restaking networks against both validator coordination and Byzantine service threats.\
   [Paper](https://arxiv.org/abs/2503.00170){: .btn .btn--primary .btn--small .btn--top .btn--spacing}
