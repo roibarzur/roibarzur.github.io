@@ -39,3 +39,12 @@ using deep reinforcement learning.\
   [Paper](https://dl.acm.org/doi/abs/10.1145/3419614.3423264){: .btn .btn--primary .btn--small .btn--top .btn--spacing}
   [Code](https://github.com/roibarzur/pto-selfish-mining){: .btn .btn--primary .btn--small .btn--top .btn--spacing}
   [Video](https://www.youtube.com/watch?v=P8ESkfCHXZ4){: .btn .btn--primary .btn--small .btn--top}
+
+## Preprints
+---
+
+- Elastic Restaking Networks\
+  <span style="color:gray">**Roi Bar-Zur** and Ittay Eyal</span>\
+  Demonstrating how partial stake allocations strengthen restaking networks against both validator coordination and Byzantine service threats.\
+  [Paper](https://arxiv.org/abs/2503.00170){: .btn .btn--primary .btn--small .btn--top .btn--spacing}
+  [News Article](https://www.dlnews.com/articles/defi/researchers-propose-new-restaking-method-to-boost-sector/){: .btn .btn--primary .btn--small .btn--top .btn--spacing}
