@@ -3,6 +3,10 @@ permalink: /projects/
 title: "Projects"
 ---
 
+- **Risk-Aware Restaking**\
+  *1st Place IC3 Blockchain Camp 2025*\
+  Exploring how service-specific restaking limits influence validator allocation strategies and restaking equilibria.\
+  [Code](https://github.com/Risk-Aware-Restaking/simulations){: .btn .btn--primary .btn--small .btn--top}
 - **Privacy-Preserving On-Chain Voting with DECO**\
   *2nd Place IC3 Blockchain Camp 2023*\
   Privacy preserving, ZKP-based voting smart contract using the oracle protocol DECO.\
