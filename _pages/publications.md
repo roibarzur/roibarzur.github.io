@@ -5,15 +5,22 @@ title: "Publications"
 
 Publications in [Google Scholar](https://scholar.google.com/citations?user=9AshC4gAAAAJ) and [DBLP](https://dblp.org/pid/270/0147.html).
 
+- **Elastic Restaking Networks**\
+  <span style="color:gray">**Roi Bar-Zur** and Ittay Eyal</span>\
+  *CCS '25*\
+  Demonstrating how partial stake allocations strengthen restaking networks against both validator coordination and Byzantine service threats.\
+  [Paper](https://arxiv.org/abs/2503.00170){: .btn .btn--primary .btn--small .btn--top .btn--spacing}
+  [News Article](https://www.dlnews.com/articles/defi/researchers-propose-new-restaking-method-to-boost-sector/){: .btn .btn--primary .btn--small .btn--top .btn--spacing}
+
 - **Aegis: A Decentralized Expansion Blockchain**\
   <span style="color:gray">Yogev Bar-On, **Roi Bar-Zur**, Omer Ben-Porat, Nimrod Cohen, Ittay Eyal, Matan Sitbon</span>\
-  *Workshop on Scalability & Interoperability of Blockchains at AFT 2024*\
+  *CCS '25*\
   Enabling the secure creation of blockchains where validators’ stake is derived from another chain.\
   [Paper](https://arxiv.org/abs/2406.05904){: .btn .btn--primary .btn--small .btn--top .btn--spacing}
 
 - **LedgerHedger: Gas Reservation for Smart-Contract Security**\
   <span style="color:gray">Itay Tsabary, Alex Manuskin, **Roi Bar-Zur** and Ittay Eyal</span>\
-  *Financial Cryptography and Data Security 2024*\
+  *FC '24*\
   A smart contract secured by a game theoretic analysis, enabling the reservation of future gas for timely transaction confirmation on the blockchain.\
   [Paper](https://eprint.iacr.org/2022/056){: .btn .btn--primary .btn--small .btn--top .btn--spacing}
 - **Deep Bribe: Predicting the Rise of Bribery in Blockchain Mining with Deep RL**\
@@ -39,11 +46,3 @@ using deep reinforcement learning.\
   [Paper](https://dl.acm.org/doi/abs/10.1145/3419614.3423264){: .btn .btn--primary .btn--small .btn--top .btn--spacing}
   [Code](https://github.com/roibarzur/pto-selfish-mining){: .btn .btn--primary .btn--small .btn--top .btn--spacing}
   [Video](https://www.youtube.com/watch?v=P8ESkfCHXZ4){: .btn .btn--primary .btn--small .btn--top}
-
-## Preprints
-
-- **Elastic Restaking Networks**\
-  <span style="color:gray">**Roi Bar-Zur** and Ittay Eyal</span>\
-  Demonstrating how partial stake allocations strengthen restaking networks against both validator coordination and Byzantine service threats.\
-  [Paper](https://arxiv.org/abs/2503.00170){: .btn .btn--primary .btn--small .btn--top .btn--spacing}
-  [News Article](https://www.dlnews.com/articles/defi/researchers-propose-new-restaking-method-to-boost-sector/){: .btn .btn--primary .btn--small .btn--top .btn--spacing}
