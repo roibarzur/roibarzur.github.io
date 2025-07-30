@@ -7,14 +7,14 @@ Publications in [Google Scholar](https://scholar.google.com/citations?user=9AshC
 
 - **Elastic Restaking Networks**\
   <span style="color:gray">**Roi Bar-Zur** and Ittay Eyal</span>\
-  *CCS '25*\
+  *ACM CCS '25*\
   Demonstrating how partial stake allocations strengthen restaking networks against both validator coordination and Byzantine service threats.\
   [Paper](https://arxiv.org/abs/2503.00170){: .btn .btn--primary .btn--small .btn--top .btn--spacing}
   [News Article](https://www.dlnews.com/articles/defi/researchers-propose-new-restaking-method-to-boost-sector/){: .btn .btn--primary .btn--small .btn--top .btn--spacing}
 
 - **Aegis: A Decentralized Expansion Blockchain**\
   <span style="color:gray">Yogev Bar-On, **Roi Bar-Zur**, Omer Ben-Porat, Nimrod Cohen, Ittay Eyal, Matan Sitbon</span>\
-  *CCS '25*\
+  *ACM CCS '25*\
   Enabling the secure creation of blockchains where validators’ stake is derived from another chain.\
   [Paper](https://arxiv.org/abs/2406.05904){: .btn .btn--primary .btn--small .btn--top .btn--spacing}
 
